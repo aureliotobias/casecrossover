@@ -2,7 +2,7 @@
 Time-stratified case-crossover studies for aggregated data in environmental epidemiology: a tutorial
 <br>
 <br>
-Tobías A, Kim Y, Madaniyazi L. <b>Time-stratified case-crossover studies for aggregated data in environmental epidemiology: a tutorial</b>. International Journal of Epidemiology (under review).
+Tobías A, Kim Y, Madaniyazi L. <b>Time-stratified case-crossover studies for aggregated data in environmental epidemiology: a tutorial</b>. International Journal of Epidemiology (accepted for publication).
 
 ---
 
